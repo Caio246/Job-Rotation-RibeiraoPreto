@@ -1,0 +1,33 @@
+110km/h                                      80km/h
+Carro (a) _______________100km_________________ Caminhão (b)
+---------->                               <-----------
+Fraca                                      BH
+
+PosicaoInicial(a) = 0km;
+Velo(a) = 110km/h
+
+PosicaoInicial(t) = 0 + 20.t
+
+PosicaoFinal(b) = 200km
+Velo(b) = 80km/h
+
+PosicaoFinal(t) = 100 + (-80km).t
+
+PosicaoFinal(t) = 100 - 80t
+
+Quando ocorre o encontro? Instante do Encontro (Te)
+
+PosicaoInicial(a) = PosicaoFinal(b)
+
+Encontro = 110(te) = 100km - 80(te)
+
+80(te) + 100(te) = 100km
+
+180(te) = 100km
+
+te = 180/100
+
+te = 1.8hrs
+
+Os carros se cruzarão no instante 1.8hrs e o mais próximo da cidade de ribeirão será o Carro. 
+
